@@ -1,3 +1,8 @@
 # AmazonScrapper
-Created as the 4th task, this app searches text provided by the user on www.amazon.in and shows the image of the first proudct along with its name. In case the product is not 
-available, it shows an error with a corresponding picture.
+This app fetches the name and image of your search query from amazon.in through web-scraping using JSoup. This was created as a recruitment task for DVM-BITS Pilani.
+
+### Technologies used :-
+
+- Java
+- JSoup (Web-Scraping)
+- Glide
